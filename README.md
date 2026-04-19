@@ -1,4 +1,4 @@
-# Freewrite
+# Freespeech
 
 A native macOS video journaling app. Record short videos, get automatic transcriptions, and use AI to improve your language skills — all stored locally on your Mac.
 
